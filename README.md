@@ -92,8 +92,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'YOURAPIKEY',
 }
   
-global.owner = ["9471XXXXXX"]
-global.ownername = ["YourName"]
+global.owner = ["94765876481"]
+global.ownername = ["MR.Dagaya"]
 ```
 	
 </details>
